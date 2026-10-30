@@ -1,0 +1,17 @@
+# Competition data and generated predictions
+train.csv
+test.csv
+sample_submission.csv
+submission_*.csv
+
+# Local results can be regenerated
+results/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
